@@ -14,4 +14,5 @@ newmtl Material__43
 	Ni 1.520000
 	Ke 0.000000 0.000000 0.000000
 	illum 2
-	map_Kd C:\Users\costa\Desktop\università\1° semestre magistrale\dentro il museo\foto\IMG-0090.ifl
+	map_Kd C: IMG-0090.png
+	
