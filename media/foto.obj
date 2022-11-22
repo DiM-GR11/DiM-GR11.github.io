@@ -1,0 +1,31 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 22.11.2022 12:16:02
+
+mtllib foto.mtl
+
+#
+# object foto
+#
+
+v  -1.348425 0.000000 -1.946850
+v  -1.348425 0.000000 1.946850
+v  1.348425 0.000000 1.946850
+v  1.348425 0.000000 -1.946850
+# 4 vertices
+
+vn 0.000000 1.000000 -0.000000
+# 1 vertex normals
+
+vt 0.000000 1.000000 0.000000
+vt 0.000000 0.000000 0.000000
+vt 1.000000 0.000000 0.000000
+vt 1.000000 1.000000 0.000000
+# 4 texture coords
+
+o foto
+g foto
+usemtl Material__43
+s 1
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+# 1 polygons
+
