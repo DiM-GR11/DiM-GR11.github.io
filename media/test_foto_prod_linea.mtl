@@ -14,4 +14,4 @@ newmtl Material__25
 	Ni 1.520000
 	Ke 0.000000 0.000000 0.000000
 	illum 2
-	map_Kd C:\Users\Letizia\Dropbox (Politecnico Di Torino Studenti)\PC\Desktop\DENTRO IL MUSEO\22.11_esercizio\produzione_linea.jpg
+	map_Kd produzione_linea.jpg
