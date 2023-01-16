@@ -1,0 +1,31 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 17.01.2023 00:21:08
+
+mtllib sez_prospettica.mtl
+
+#
+# object Layer_0
+#
+
+v  50.000000 0.000000 51.949997
+v  -50.000000 0.000000 51.949997
+v  -50.000000 0.000000 -51.950001
+v  50.000000 0.000000 -51.950001
+# 4 vertices
+
+vn 0.000000 -1.000000 -0.000000
+# 1 vertex normals
+
+vt 0.000000 0.000000 0.000000
+vt 1.000000 0.000000 0.000000
+vt 1.000000 1.000000 0.000000
+vt 0.000000 1.000000 0.000000
+# 4 texture coords
+
+o Layer_0
+g Layer_0
+usemtl Material__26
+s 1
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+# 1 polygons
+
